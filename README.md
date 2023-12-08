@@ -1,3 +1,8 @@
+<div align=center>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=500&random=false&width=530&lines=Developer+looking+for+a+better+way)](https://git.io/typing-svg)
+</div>
+
 <div align=center><h1>&#9989; Experiences</h1></div>
 <div align=center>
   
