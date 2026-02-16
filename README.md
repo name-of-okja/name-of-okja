@@ -1,4 +1,4 @@
-# Okja
+# OkJa
 
 > Engineer building thoughtful systems architecture.
 
